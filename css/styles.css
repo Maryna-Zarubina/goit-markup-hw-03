@@ -1,0 +1,116 @@
+<style> 
+.header{
+
+}
+.container{
+
+}
+.header-navigation{font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+
+/* line-height: 24px; */ 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+
+}
+.address{
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+
+/* line-height: 24px; */ 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.banner {width:100%
+height: 600px;
+background: #2e2f42;
+
+}
+.banner-title{font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 56px;
+
+/* line-height: 60px; */ 
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+
+}
+.button{border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+
+}
+.benefits-list{
+
+}
+.benefits-list-item {
+
+}
+.benefits-title{font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+
+/* line-height: 24px; */ 
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+
+}
+.benefits-text{
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+
+/* line-height: 24px; */ 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.team-title {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+
+/* line-height: 40px; */ 
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.team-title-name
+{font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+
+/* line-height: 24px; */ 
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;}
+
+.team-title-text
+{font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+
+/* line-height: 24px; */ 
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;}
+
+.container-footer
+{width:100%
+height: 312px;
+background: #2e2f42;}
+</style>
