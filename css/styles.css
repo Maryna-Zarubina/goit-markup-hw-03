@@ -58,6 +58,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
   }
 
 .nav-link:hover,
@@ -187,7 +188,16 @@ img {
   color: #2e2f42;
   margin-bottom: 72px;
  }
-
+ .team-info {
+  padding: 32px 0;
+}
+.team-item {
+  background-color: #FFFFFF;
+  border-radius: 0px 0px 4px 4px; 
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+              0px 1px 1px rgba(46, 47, 66, 0.16),
+              0px 1px 6px rgba(46, 47, 66, 0.08);
+            }
 .team-title-name {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -205,6 +215,25 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #434455;
+}
+.team-name {
+  text-align: center;
+  margin-bottom: 8px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.team-role {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .team-list,
@@ -263,6 +292,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .portfolio-item-text {
