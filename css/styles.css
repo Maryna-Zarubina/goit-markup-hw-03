@@ -3,6 +3,13 @@
   color: #434455;
   background-color: #FFFFFF;
 }
+a {
+  text-decoration: none;
+}
+h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
 img {
   display: block;
   max-width: 100%;
@@ -322,6 +329,7 @@ img {
 
 .footer-logo-accent {
   color: #f4f4fd;
+  text-transform: uppercase;
 }
 
 .footer-text {
