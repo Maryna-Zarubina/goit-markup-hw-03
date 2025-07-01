@@ -185,6 +185,9 @@ img {
 .section {
   padding: 120px 0;
 }
+.team-section {
+  background-color: #F4F4FD;
+}
 .team-title {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
@@ -257,7 +260,6 @@ img {
   flex-basis: calc((100% - 72px) / 4); /* 4 items with 24px gap */
 }
 .portfolio-section {
-  background-color: #F4F4FD;
   padding: 120px 0;
 }
 
@@ -326,6 +328,7 @@ img {
   color: #4d5ae5;
    margin-bottom: 16px;
   text-transform: uppercase;
+text-decoration: none;
 
 }
 
