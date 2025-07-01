@@ -325,11 +325,13 @@ img {
   letter-spacing: 0.03em;
   color: #4d5ae5;
    margin-bottom: 16px;
+  text-transform: uppercase;
+
 }
 
 .footer-logo-accent {
   color: #f4f4fd;
-  text-transform: uppercase;
+
 }
 
 .footer-text {
